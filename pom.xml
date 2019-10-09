@@ -6,7 +6,7 @@
 	<groupId>com.podkutin</groupId>
 	<artifactId>spring-boot-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-boot-h2</name>
 	<description>Demo project for Spring Boot H2</description>
